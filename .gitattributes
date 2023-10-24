@@ -1,2 +1,2 @@
-data.json filter=lfs diff=lfs merge=lfs -text
+datos_filtrados_con_Rm_ind1.11.json filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
